@@ -1,4 +1,4 @@
-# UDP Chat Room System (Client-Server) in C
+# UDP Chat Room System 
 
 This project implements a simple chat system using UDP sockets, allowing multiple clients to communicate in real time via a central server.
 
